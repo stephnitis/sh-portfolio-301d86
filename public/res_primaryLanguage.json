@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "My name is Stephanie Hill and I am a software developer who works in HTML, CSS and JavaScript. I am coming from a career in hospitality, which has made me an expert at working efficiently under extreme pressure. I became accomplished at leading my team and was rewarded with the responsibility of training new members. I excelled with training due to my attention to detail, my ability to assess the needs of my team members and my ability to convey the company’s values in the process. Despite the success I found in the industry, I found there to be no real safety nets or long-term benefits and needed to find a way to transition out to better provide for my future. I was drawn to this industry because I excel at adapting to dynamic environments. The fact that tech is constantly changing is exciting to me. I have worked with a diverse range of individuals, traveled extensively and consistently been able to find commonalities that bring people together. I am working towards developing software that is equitable and would love to work in a progressive environment that is open to implementing new ideas to help disenfranchised groups.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Project Steel",
+        "startDate": "2022",
+        "description": "A calculator for caloric output. The user inputs their personal data and selects from a variety of activities to view a comprehensive display of calories burned.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "A fictional fish cookie salesman's business site, including a chart displaying hourly sales per location, and a form to input additional stores.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"

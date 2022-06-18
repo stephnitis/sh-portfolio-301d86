@@ -1,18 +1,19 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Stephanie Hill",
+      "titles": [ "This Chick has Big Tech Energy" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/stephnitis",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "www.linkedin.com/in/stephnihill",
           "class": "fab fa-instagram"
         }
+
       ],
       "image": "myProfile.jpg"
     },
