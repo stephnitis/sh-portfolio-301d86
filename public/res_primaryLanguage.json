@@ -81,37 +81,34 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Software Development",
+        "title": "Student",
+        "years": "Summer 2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Code Fellows"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "React",
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Flights Wine Bar",
+        "title": "Bartender & Certified Wine & Beer Specialist",
+        "years": "2013-2022",
         "mainTech": [
-          "Angular 7/8"
+          "Seasonal Hospitality Worker"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "WSET Level 2",
+          "Cicerone",
+          "Great Communication Skills",
+          "Efficient Under Pressure",
+          "Will Make You a Delightful Manhattan"
         ]
       }
     ]
